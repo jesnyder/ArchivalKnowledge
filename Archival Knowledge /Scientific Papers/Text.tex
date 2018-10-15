@@ -1,0 +1,30 @@
+\iffalse 
+OS X command script to compile LaTex:
+	pdflatex Text.tex
+	latexmk -pdf Text.tex
+	latexmk -pdf -bibtex Text.tex
+\fi
+
+\documentclass{article}
+\usepackage[numbers]{natbib}
+
+\begin{document}
+
+	
+   Title
+   
+   Hello. This is how you cite. \cite{gustafsson2016best}
+   
+   Another reference \cite{hamid2015surface}
+   
+   
+
+     \bibliographystyle{plainnat} 
+    \bibliography{References}
+\end{document}
+
+
+
+
+
+

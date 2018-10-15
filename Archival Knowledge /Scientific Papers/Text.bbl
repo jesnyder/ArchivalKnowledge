@@ -1,0 +1,21 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gustafsson and Vallverd{\'u}(2016)]{gustafsson2016best}
+Claes Gustafsson and Jordi Vallverd{\'u}.
+\newblock The best model of a cat is several cats.
+\newblock \emph{Trends in biotechnology}, 34\penalty0 (3):\penalty0 207--213,
+  2016.
+
+\bibitem[Hamid et~al.(2015)Hamid, Wang, Snyder, and Sun]{hamid2015surface}
+Qudus Hamid, Chengyang Wang, Jessica Snyder, and Wei Sun.
+\newblock Surface modification of su-8 for enhanced cell attachment and
+  proliferation within microfluidic chips.
+\newblock \emph{Journal of Biomedical Materials Research Part B: Applied
+  Biomaterials}, 103\penalty0 (2):\penalty0 473--484, 2015.
+
+\end{thebibliography}
