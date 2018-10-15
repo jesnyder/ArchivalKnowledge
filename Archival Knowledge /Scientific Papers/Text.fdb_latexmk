@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Text"] 1539622416 "Text.aux" "Text.bbl" "Text" 1539622417
+["bibtex Text"] 1539623957 "Text.aux" "Text.bbl" "Text" 1539624084
   "/usr/local/texlive/2016/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "References.bib" 1539621970 664 4087951341bd7a87760860fc30a3581e ""
-  "Text.aux" 1539622416 269 52d693a711f862b6a14bb4a6da38ac8a ""
+  "References.bib" 1539623727 2211 b32728201feddc3f23e261fb54caf48c ""
+  "Text.aux" 1539623957 1079 72628a303974163c3c44cce9c36c6f9a ""
   "Text.bcf" 0 -1 0 ""
   (generated)
-  "Text.blg"
   "Text.bbl"
-["pdflatex"] 1539622416 "Text.tex" "Text.pdf" "Text" 1539622417
+  "Text.blg"
+["pdflatex"] 1539623957 "Text.tex" "Text.pdf" "Text" 1539624084
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -22,9 +22,9 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1485360519 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "Text.aux" 1539622416 269 52d693a711f862b6a14bb4a6da38ac8a ""
-  "Text.bbl" 1539622416 902 ef2c7303a8bcce401592fa22433d2b0b "bibtex Text"
-  "Text.tex" 1539622413 279 e510075c6792f1df2bfff08c6c279042 ""
+  "Text.aux" 1539623957 1079 72628a303974163c3c44cce9c36c6f9a ""
+  "Text.bbl" 1539623957 2453 f5a8c142a3573136a950151c4d3ad863 "bibtex Text"
+  "Text.tex" 1539623954 5485 fa7599626fc7a4dc8ffc349f575795fd ""
   (generated)
   "Text.pdf"
   "Text.log"
