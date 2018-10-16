@@ -1,4 +1,4 @@
-\begin{thebibliography}{6}
+\begin{thebibliography}{12}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -17,6 +17,51 @@ Qudus Hamid, Chengyang Wang, Jessica Snyder, and Wei Sun.
   proliferation within microfluidic chips.
 \newblock \emph{Journal of Biomedical Materials Research Part B: Applied
   Biomaterials}, 103\penalty0 (2):\penalty0 473--484, 2015.
+
+\bibitem[Snyder(1974)]{snyder1974self}
+Mark Snyder.
+\newblock Self-monitoring of expressive behavior.
+\newblock \emph{Journal of personality and social psychology}, 30\penalty0
+  (4):\penalty0 526, 1974.
+
+\bibitem[Li et~al.(2017)Li, Dunn, Salins, Zhou, Zhou, Rose, Perelman, Colbert,
+  Runge, Rego, et~al.]{li2017digital}
+Xiao Li, Jessilyn Dunn, Denis Salins, Gao Zhou, Wenyu Zhou, Sophia Miryam
+  Sch{\"u}ssler-Fiorenza Rose, Dalia Perelman, Elizabeth Colbert, Ryan Runge,
+  Shannon Rego, et~al.
+\newblock Digital health: tracking physiomes and activity using wearable
+  biosensors reveals useful health-related information.
+\newblock \emph{PLoS biology}, 15\penalty0 (1):\penalty0 e2001402, 2017.
+
+\bibitem[Kellogg et~al.(2018)Kellogg, Dunn, and Snyder]{kellogg2018personal}
+Ryan~A Kellogg, Jessilyn Dunn, and Michael~P Snyder.
+\newblock Personal omics for precision health.
+\newblock \emph{Circulation Research}, 122\penalty0 (9):\penalty0 1169--1171,
+  2018.
+
+\bibitem[Latham-Mintus et~al.(2017)Latham-Mintus, Weathers, Irby-Shasanmi,
+  Bigatti, Storniolo, Robison, and Telomere~Laboratory]{latham2017exploring}
+K~Latham-Mintus, T~Weathers, A~Irby-Shasanmi, SM~Bigatti, A~Storniolo,
+  L~Robison, and I~Telomere~Laboratory.
+\newblock Exploring cumulative disadvantage, telomere length, and breast cancer
+  among black and white women.
+\newblock \emph{Innovation in Aging}, 1\penalty0 (suppl\_1):\penalty0
+  1338--1338, 2017.
+
+\bibitem[Thorvaldsdottir et~al.(2017)Thorvaldsdottir, Aradottir, Stefansson,
+  Bodvarsdottir, and Eyfj{"o}rd]{thorvaldsdottir2017telomere}
+Birna Thorvaldsdottir, Margret Aradottir, Olafur~A Stefansson, Sigridur~K
+  Bodvarsdottir, and Jorunn~E Eyfj{"o}rd.
+\newblock Telomere length is predictive of breast cancer risk in brca2 mutation
+  carriers.
+\newblock \emph{Cancer Epidemiology and Prevention Biomarkers}, pages
+  cebp--0946, 2017.
+
+\bibitem[Rasgon et~al.(2017)Rasgon, McEwen, and Lin]{rasgon2017insulin}
+N~Rasgon, B~McEwen, and KW~Lin.
+\newblock Insulin resistance and telomere length in treatment of depressive
+  disorders.
+\newblock \emph{European Psychiatry}, 41:\penalty0 S61--S62, 2017.
 
 \bibitem[Srivastava et~al.(2010)Srivastava, Simakov, Chapman, Fahey, Gauthier,
   Mitros, Richards, Conaco, Dacre, Hellsten, et~al.]{srivastava2010amphimedon}
